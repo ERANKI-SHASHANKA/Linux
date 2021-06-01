@@ -14,8 +14,8 @@
             - These are binary programs or scripts which are usually located in distinct files in the system.
             - They either come pre-installed with the distributions package manager or can be created and installed by the user.
             - Eg. mv, date, uptime, cp etc.
-    
-    - Commands :
+            
+   - Commands :
         | S.No. | command | Description | Example |
         | :------| :------| :------| :------|
         | 1 | echo | To print a line of text on the screen | $ echo -n Hello |
